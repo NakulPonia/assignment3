@@ -1,7 +1,6 @@
 //Program1
 
 using System;
-
 namespace Assignment3
 {
     internal class Program
@@ -29,6 +28,7 @@ namespace Assignment3
 }
 
 //Program2
+
 using System;
 namespace Assignment3
 {
@@ -189,6 +189,7 @@ namespace Assignment3
 }
 
 //Program7
+
 using System;
 namespace Assignment3
 {
